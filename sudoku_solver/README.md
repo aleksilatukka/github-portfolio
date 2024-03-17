@@ -10,7 +10,7 @@ Sudoku Solver is a Python-based puzzle-solving application designed to tackle ev
 - Real-time feedback and error detection to enhance the solving experience.
   
 ### Instructions
-Select a box and type your number on keyboard. You can check if its correct by hitting SPACE key on your keyboard. To erase your input just hit BACKSPACE key. 
+Run sudoku_solver_gui.py. Select a box and type your number on keyboard. You can check if its correct by hitting SPACE key on your keyboard. To erase your input just hit BACKSPACE key. 
 If you are really stuck or want just to complete the sudoku, hit ENTER key and watch the algorithm to solve it for you.
 
 ### TODO
