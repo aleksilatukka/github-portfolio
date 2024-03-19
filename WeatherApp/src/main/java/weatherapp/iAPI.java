@@ -7,7 +7,7 @@ import org.json.JSONException;
 
 
 public interface iAPI {
-    String API_KEY = "cebdc24ede8381c4d4cf209a8775d769";
+    String API_KEY = "123"; //insert your APIkey here
     String API_ENDPOINT = "http://api.openweathermap.org/data/2.5";
 
     default JSONObject lookUpLocation(String loc) {
